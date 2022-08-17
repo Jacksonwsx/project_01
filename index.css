@@ -1,4 +1,9 @@
+html,body{
+	margin: 0;
+	padding: 0;
+	background-color: cyan;
+}
 h1{
 	color: red;
-	font-size: 10px;
+	font-size: 19px;
 }
